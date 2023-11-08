@@ -11,12 +11,3 @@ Welcome to My Github🍊
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA%20-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
-
-<br>
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=umjiuji)](https://solved.ac/umjiuji/)
-
-
